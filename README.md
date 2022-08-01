@@ -2,10 +2,8 @@
  
 ## Introduction ☑ 
 > A person makes a doctor appointment, receives all the instructions and no-show. Who to blame? If this help you studying or working, please don´t forget to upvote :). Reference to Joni Hoppen and Aquarela Advanced Analytics Aquarela . Data Content is 110.527 medical appointments its 14 associated variables (characteristics). The most important one if the patient show-up or no-show to the appointment. Variable names are self-explanatory, if you have doubts, just let me know!
-
 > In this project , I've apply Data Cleaning , Data Analysis , Data Viusalization to more understand the dataset and finally apply Machine Learning to predict if the 
 the patient will show up to appoinments or not with accuarcy 80 % in both of training and testing
-
 > For More Information about Dataset : https://www.kaggle.com/joniarroba/noshowappointments
 
 ## Data Columns ⚡
