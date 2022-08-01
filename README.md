@@ -9,10 +9,10 @@ the patient will show up to appoinments or not
 > For More Information about Dataset : https://www.kaggle.com/joniarroba/noshowappointments
 
 ## Data Columns ⚡
-> 1. PatientId : Identification of a patient 
-  2. AppointmentID : Identification of each appointment
-  3. Gender : Male or Female . Female is the greater proportion, woman takes way more care of they health in comparison to man.
-  4. DataMarcacaoConsulta : The day of the actuall appointment, when they have to visit the doctor.
+>  1. PatientId : Identification of a patient 
+>  2. AppointmentID : Identification of each appointment
+>  3. Gender : Male or Female . Female is the greater proportion, woman takes way more care of they health in comparison to man.
+>  4. DataMarcacaoConsulta : The day of the actuall appointment, when they have to visit the doctor.
   5. DataAgendamento : The day someone called or registered the appointment, this is before appointment of course.
   6. Age : How old is the patient.
   7. Neighbourhood : Where the appointment takes place.
