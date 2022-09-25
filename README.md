@@ -44,3 +44,5 @@ the patient will show up to appoinments or not with accuarcy 86 % in testing and
   14. The five most neighborhoods where patients are shown up to Appointments 're : JARDIM CAMBURI , MARIA ORTIZ , RESISTÊNCIA ,JARDIM DA PENHA and SANTA MARTHA
   15. There are no appointments on Sunday and less appointments is on Saturday
   16. Predicting Show-Up/No-Show Appointments can done using XGboost Model or Gradient Boosting Model
+  
+  https://t3.ftcdn.net/jpg/02/60/79/68/360_F_260796882_QyjDubhDDk0RZXV9z7XBEw9AKnWCizXy.jpg
