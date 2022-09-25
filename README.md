@@ -45,4 +45,4 @@ the patient will show up to appoinments or not with accuarcy 86 % in testing and
   15. There are no appointments on Sunday and less appointments is on Saturday
   16. Predicting Show-Up/No-Show Appointments can done using XGboost Model or Gradient Boosting Model
   
-  https://t3.ftcdn.net/jpg/02/60/79/68/360_F_260796882_QyjDubhDDk0RZXV9z7XBEw9AKnWCizXy.jpg
+![image](https://user-images.githubusercontent.com/78029611/192160687-135dd133-854b-40f7-a91c-56de10eb1246.png)
