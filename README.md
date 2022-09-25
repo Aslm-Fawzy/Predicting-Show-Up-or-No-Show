@@ -1,4 +1,4 @@
-# **Predicating Show Up or No Show to Doctors Appoinments**
+# **Predicating Show Up or No Show to Doctors Appointments**
 ----
  
 ## Introduction ☑ 
